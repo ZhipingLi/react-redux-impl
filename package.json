@@ -1,6 +1,6 @@
 {
   "name": "react-redux-impl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple implementation of react-redux",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "react",
     "redux",
     "react-redux-impl",
-    "react-redux",
-    "implementation"
+    "react-redux-implementation"
   ],
   "author": "Zhiping Li",
   "license": "MIT"
